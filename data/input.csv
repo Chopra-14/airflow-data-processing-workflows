@@ -1,0 +1,101 @@
+id,name,age,city,salary,join_date
+1,John Doe,28,New York,55000.50,2022-03-15
+2,Jane Smith,35,San Francisco,75000.00,2021-07-22
+3,Mike Johnson,42,Chicago,68000.75,2020-11-10
+4,Alice Brown,25,Boston,48000.00,2023-01-05
+5,David Lee,51,Seattle,92000.00,2018-06-18
+6,Emily Davis,31,Austin,61000.00,2020-09-12
+7,Chris Martin,46,Denver,82000.00,2019-04-28
+8,Sarah Wilson,29,Atlanta,53000.00,2022-11-02
+9,Daniel Clark,38,Dallas,72000.00,2021-01-19
+10,Olivia Lewis,55,San Jose,98000.00,2017-08-09
+11,James Hall,34,Miami,64000.00,2020-05-14
+12,Emma Young,27,Orlando,52000.00,2022-06-21
+13,Robert King,49,Detroit,81000.00,2019-10-30
+14,Sophia Wright,32,Phoenix,66000.00,2021-02-11
+15,William Scott,58,San Diego,102000.00,2016-07-07
+16,Ava Green,24,Tempe,45000.00,2023-03-19
+17,Joseph Adams,41,Columbus,70000.00,2020-12-01
+18,Isabella Baker,36,Portland,74000.00,2021-09-17
+19,Thomas Nelson,52,San Mateo,94000.00,2018-04-25
+20,Mia Carter,28,Irvine,56000.00,2022-08-10
+21,Charles Mitchell,44,Tampa,78000.00,2019-11-09
+22,Amelia Perez,33,San Antonio,65000.00,2021-01-27
+23,Henry Roberts,60,Los Angeles,110000.00,2015-05-03
+24,Evelyn Turner,26,Raleigh,50000.00,2023-02-14
+25,Samuel Phillips,39,Durham,72000.00,2020-06-29
+26,Abigail Campbell,47,Oakland,85000.00,2019-08-16
+27,Matthew Parker,31,Berkeley,63000.00,2021-04-08
+28,Harper Evans,29,Palo Alto,59000.00,2022-12-20
+29,Anthony Edwards,54,Fremont,96000.00,2017-09-05
+30,Elizabeth Collins,35,Sunnyvale,75000.00,2020-10-11
+31,Joshua Stewart,42,Mountain View,81000.00,2019-03-23
+32,Sofia Morris,27,Cupertino,54000.00,2022-07-01
+33,Andrew Rogers,48,Redwood City,88000.00,2018-11-15
+34,Grace Reed,34,Milpitas,67000.00,2021-06-09
+35,Christopher Cook,57,San Bruno,101000.00,2016-02-26
+36,Chloe Morgan,23,Hayward,43000.00,2023-04-12
+37,Daniel Bell,40,Union City,73000.00,2020-01-18
+38,Lily Murphy,31,Daly City,61000.00,2021-08-24
+39,Jonathan Bailey,52,Burlingame,93000.00,2018-12-07
+40,Aria Rivera,28,San Carlos,57000.00,2022-05-30
+41,Noah Cooper,36,Menlo Park,76000.00,2020-09-14
+42,Ella Richardson,44,Los Altos,83000.00,2019-07-02
+43,Christian Cox,59,Campbell,104000.00,2016-06-21
+44,Scarlett Howard,26,Santa Clara,51000.00,2023-01-09
+45,Aaron Ward,38,Saratoga,71000.00,2021-11-16
+46,Hannah Torres,33,Los Gatos,66000.00,2020-04-27
+47,Jason Peterson,50,Cupertino,90000.00,2018-10-03
+48,Zoey Gray,29,Sunnyvale,58000.00,2022-02-19
+49,Kevin Ramirez,41,San Jose,77000.00,2019-05-11
+50,Nora James,35,Mountain View,74000.00,2021-03-06
+51,Justin Watson,46,Palo Alto,86000.00,2019-09-28
+52,Luna Brooks,24,Redwood City,46000.00,2023-06-01
+53,Brandon Kelly,53,Fremont,95000.00,2017-12-15
+54,Victoria Sanders,37,Milpitas,70000.00,2020-08-08
+55,Eric Price,32,Hayward,62000.00,2021-10-22
+56,Penelope Bennett,28,Union City,56000.00,2022-04-17
+57,Adam Wood,45,Daly City,82000.00,2019-01-25
+58,Riley Barnes,34,Burlingame,68000.00,2020-07-13
+59,Sean Ross,58,San Bruno,103000.00,2016-11-04
+60,Audrey Henderson,26,San Mateo,50000.00,2023-02-02
+61,Tyler Coleman,39,San Carlos,72000.00,2020-03-18
+62,Claire Jenkins,31,Menlo Park,61000.00,2021-12-09
+63,Brian Perry,47,Los Altos,85000.00,2018-08-26
+64,Stella Long,29,Campbell,57000.00,2022-09-14
+65,Nathan Patterson,52,Santa Clara,94000.00,2017-06-30
+66,Violet Hughes,27,Saratoga,53000.00,2023-05-07
+67,Patrick Flores,41,Los Gatos,78000.00,2019-10-19
+68,Lucy Washington,35,Cupertino,74000.00,2021-01-13
+69,Scott Butler,56,Sunnyvale,100000.00,2016-04-24
+70,Anna Simmons,28,Palo Alto,56000.00,2022-07-27
+71,Jeremy Foster,44,Redwood City,83000.00,2019-02-08
+72,Naomi Gonzales,33,Fremont,66000.00,2020-06-16
+73,Ryan Bryant,49,Milpitas,89000.00,2018-09-01
+74,Aaliyah Alexander,25,Hayward,47000.00,2023-03-03
+75,Mark Russell,38,Union City,71000.00,2021-08-12
+76,Elena Griffin,31,Daly City,62000.00,2020-12-28
+77,Paul Diaz,55,Burlingame,97000.00,2017-05-20
+78,Faith Hayes,29,San Bruno,58000.00,2022-10-05
+79,Gregory Myers,42,San Mateo,76000.00,2019-11-23
+80,Isla Ford,34,San Carlos,68000.00,2021-04-18
+81,Kevin Hamilton,51,Menlo Park,92000.00,2018-01-14
+82,Madison Graham,27,Los Altos,52000.00,2023-06-11
+83,Alex Fisher,40,Campbell,75000.00,2020-02-07
+84,Savannah Wallace,36,Santa Clara,70000.00,2021-09-29
+85,Peter West,58,Saratoga,105000.00,2016-08-03
+86,Leah Cole,24,Los Gatos,45000.00,2023-04-26
+87,Frank Jordan,47,Cupertino,86000.00,2018-12-17
+88,Arjun Patel,32,Sunnyvale,64000.00,2021-07-08
+89,Monica Shah,29,Palo Alto,58000.00,2022-01-31
+90,Rahul Verma,35,San Jose,73000.00,2020-10-06
+91,Priya Nair,41,Mountain View,78000.00,2019-03-12
+92,Kiran Rao,54,Redwood City,96000.00,2017-09-21
+93,Neha Gupta,26,Fremont,50000.00,2023-02-18
+94,Amit Singh,38,Milpitas,72000.00,2021-05-26
+95,Pooja Mehta,31,Hayward,61000.00,2020-11-14
+96,Suresh Iyer,49,Union City,88000.00,2018-07-04
+97,Ritu Malhotra,34,Daly City,69000.00,2021-12-02
+98,Vikram Choudhary,57,Burlingame,101000.00,2016-03-10
+99,Ananya Das,28,San Bruno,56000.00,2022-08-15
+100,Rohit Kulkarni,45,San Mateo,84000.00,2019-06-27
