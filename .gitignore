@@ -1,0 +1,6 @@
+# Airflow runtime
+logs/
+output/*.parquet
+__pycache__/
+*.pyc
+tmp/
